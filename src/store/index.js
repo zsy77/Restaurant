@@ -23,5 +23,5 @@ const store = new Vuex.Store({
         }
     }
 })
-
+// 11
 export default store
